@@ -1,0 +1,164 @@
+//.What God is like
+$subtitle=Ex 19-20, Matt 11
+$subtitlefront=$subtitle
+$foottitle=$TITLE
+$pdate=2019-05-12
+$ID=$Id: God-qualities.txt 1231 2019-05-13 03:31:16Z andrewfn $
+$VER=2.90
+$include inc-amfsermons3.txt
+////////////////////////////////////////////////////////////////
+-I was going to call this sermon "Everything about God in 30 mins"
+-Then I realized that to cover _everything_ about God, it would take two sermons
+-But seriously, some time s it is useful to step back and try and take it the larger view
+-So today I want to concentrate on how two particular qualities of God impact us
+-Next time I want to look at God as a being, and other beings like angels and demons
+
+{Key points
+1. How God is different to us
+2. Qualities we share with God
+3. Our experience of God
+-First the Old Testatment, then the New
+}
+
+{1. How God is different
+-All knowing
+-All powerful
+-Outside of time
+-Outside of space
+-Unchanging
+-Has no needs outside of himself
+}
+
+$P 1. Old Testament
+-An Encounter with God in Ex 19-20
+$iframe Ex19-20-iframe 
+$iframecopy
+
+-Moses, you go!
+ -Even scared of his face when he had been with God
+ -Moses learned another side of God, and even in the scariness, God describes him as a friend
+
+{2. Qualities we share with God
+-Emotional
+-Knowable. Loving and Attaching
+-Faithful and trustworthy
+-Self-giving
+-Compassionate
+-Creative: loves beauty and artistry
+-Passionate about truth
+-Passionate about justice
+}
+-Look at how there can be fear and love at the same time
+$iframe Daniel10-iframe
+$iframecopy
+
+-God _is_ scary. Often today a tame God is preached.
+
+$nonum=$li_style1=list-style-type:none;
+{Is God Safe?
+$nonum
+#. “Aslan is a lion--the Lion, the great Lion."
+$nonum
+#. "Ooh" said Susan. "I'd thought he was a man. Is he-quite safe? I shall feel rather nervous about meeting a lion"...
+$nonum
+#. "Safe?" said Mr Beaver ..."Who said anything about safe? 'Course he isn't safe.
+$nonum
+#. But he's good. He's the King, I tell you.”
+#. --C.S. Lewis, _The Lion, the Witch and the Wardrobe_
+}
+
+-How do we experience these two qualities at the same time--this is what I am interested in this morning
+ -Do we destroy one at the expense of the other?
+-Hannah's story
+ -Two wives
+ -She had no children (in that culture...)
+ -She was deeply distressed and prayed to the $LORD and wept bitterly.
+ -God heard her prayer and gave her a son, who two books of the Bible are named after
+
+$smallhead 150 //200 (%) is normal
+{Hannah's prayer: 1 Sam 2:1--8
+2. "There is none holy like the $LORD; there is none besides you; there is no rock like our God.$ELIP
+3. Talk no more so very proudly, let not arrogance come from your mouth; for the $LORD is a God of knowledge, and by him actions are weighed. 
+4. The bows of warriors are shattered,	but those who stumble find their strength reinforced.
+7. The $LORD makes poor and makes rich; he brings low and he exalts. 
+8. He raises up the *poor* from the dust; he lifts the *needy* from the ash heap to make them sit with princes and inherit a seat of honour$...
+}
+
+$P 2. New Testament 
+-The Book of Hebrews starts by telling us something very interesting
+{Hebrews 1
+1. Long ago, at many times and in many ways, God spoke to our fathers by the prophets, 
+2. but in these last days he has spoken to us by his Son, _\[lit. in a Son-way\]_ whom he appointed the heir of all things, through whom also he created the world. 
+3. He is the radiance of the glory of God and ^the exact imprint of his nature^, and he upholds the universe by the word of his power.
+}
+
+-Jesus exemplified this compassion:
+ -Can you think of any stories?
+{Jesus' compassion
+ When he saw the crowds, he had ^compassio^n for them, because they were harassed and helpless, like sheep without a shepherd. _Matt 9:36_
+ When he went ashore he saw a great crowd, and he had ^compassion^ on them and healed their sick. _Matt 14:14_
+ Then Jesus called his disciples to him and said, "I have ^compassion^ on the crowd because they have been with me now three days and have nothing to eat. And I am unwilling to send them away hungry, lest they faint on the way." _Matt 15:32_
+}
+-Compassion not for people who were committed to him but to people in general.
+
+{Matthew 20
+30. And behold, there were two blind men sitting by the roadside, and when they heard that Jesus was passing by, they cried out, "Lord, have mercy on us, Son of David!" 
+31. The crowd rebuked them, telling them to be silent, but they cried out all the more, "Lord, have mercy on us, Son of David!" 
+32. And stopping, Jesus called them and said, "What do you want me to do for you?" 
+33. They said to him, "Lord, let our eyes be opened." 
+34. And Jesus in ^compassion^ touched their eyes, and immediately they recovered their sight and followed him. 
+}
+-One of Jesus's main roles was to reveal to us the essential character of God
+
+{Luke 7
+12. As he drew near to the gate of the town, behold, a man who had died was being carried out, the only son of his mother, and she was a widow, and a considerable crowd from the town was with her. 
+13. And when the Lord saw her, he had ^compassion^ on her and said to her, "Do not weep." 
+14. Then he came up and touched the bier, and the bearers stood still. And he said, "Young man, I say to you, arise." 
+15. And the dead man sat up and began to speak, and Jesus gave him to his mother. 
+}
+
+{3. Our experience of God
+-Awe and wonder
+-Fear
+-Comfort
+-Excitement and joy
+-Hope
+-Love and security
+}
+
+{Jesus: Matthew 11
+28. Come to me, all who labour and are heavy laden, and I will give you rest. 
+29. Take my yoke upon you, and learn from me, for *I am gentle and lowly in heart*, and you will find rest for your souls. 
+30. For my yoke is easy, and my burden is light." 
+}
+-_explain "yoke"_
+
+-How should you respond to this?
+ -Be aware of how awesome and scary God is
+ -But somehow manage to hold this other quality of God in your mind
+ -If you really get them both, then you won't hesitate
+ -Story of Augustus Toplady, 250 years ago
+-Jesus offers to be your shelter from the storm--run to him before it's too late
+
+$imgsource http://www.publicdomainfiles.com/show_file.php?id=13942006814748 NOAA
+$image thunderstorm.jpg Thunderstorm
+
+{Rock of Ages
+When I draw this fleeting breath/
+When my eyelids close in death/
+When I soar to worlds unknown/
+See thee on thy judgement throne/
+Rock of ages, cleft for me/
+Let me hide myself in thee
+}
+
+-All of us should learn to hold these thing at the same time in our minds:
+{3. Our experience of God
+-Awe and wonder
+-Fear
+-Comfort
+-Excitement and joy
+-Hope
+-Love and security
+}
+

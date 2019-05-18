@@ -1,0 +1,17 @@
+//.Daniel 10
+$VER=2.90
+$ID=$Id: Daniel10-iframe.txt 1229 2019-05-12 14:06:15Z andrewfn $
+$include inc-iframetext.txt
+$version=ESV
+/////////////////////////
+4. On the twenty-fourth day of the first month, as I was standing on the bank of the great river (that is, the Tigris) 
+5. I lifted up my eyes and looked, and behold, a man clothed in linen, with a belt of fine gold from Uphaz around his waist. 
+6. His body was like beryl, his face like the appearance of lightning, his eyes like flaming torches, his arms and legs like the gleam of burnished bronze, and the sound of his words like the sound of a multitude. 
+7. And I, Daniel, alone saw the vision, for the men who were with me did not see the vision, but a great trembling fell upon them, and they fled to hide themselves. 
+8. So I was left alone and saw this great vision, and no strength was left in me. My radiant appearance was fearfully changed, and I retained no strength. 
+9. Then I heard the sound of his words, and as I heard the sound of his words, I fell on my face in deep sleep with my face to the ground. 
+10. And behold, a hand touched me and set me trembling on my hands and knees. 
+11. And he said to me, ^"O Daniel, man greatly loved, understand the words that I speak to you, and stand upright,^ for now I have been sent to you." And when he had spoken this word to me, I stood up trembling. 
+
+$endtext
+

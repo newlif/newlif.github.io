@@ -1,0 +1,19 @@
+//.Exodus 19 & 20
+$VER=2.90
+$ID=$Id: Ex19-20-iframe.txt 1229 2019-05-12 14:06:15Z andrewfn $
+$include inc-iframetext.txt
+$version=ESV
+/////////////////////////
+16. On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled. 
+17. Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain. 
+18. Now Mount Sinai was wrapped in smoke because the LORD had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly. 
+19. And as the sound of the trumpet grew louder and louder, Moses spoke, and God answered him in thunder. 
+20. The LORD came down on Mount Sinai, to the top of the mountain. And the LORD called Moses to the top of the mountain, and Moses went up. 
+...Exodus 20
+18. Now when all the people saw the thunder and the flashes of lightning and the sound of the trumpet and the mountain smoking, ^the people were afraid and trembled, and they stood far off^ 
+19. and said to Moses, "You speak to us, and we will listen; but ^do not let God speak to us, lest we die.^" 
+20. Moses said to the people, ^"Do not fear, for God has come to test you, that the fear of him may be before you, that you may not sin."^ 
+21. The people stood far off, while Moses drew near to the thick darkness where God was. 
+
+$endtext
+
