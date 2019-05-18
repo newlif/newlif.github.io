@@ -1,0 +1,3 @@
+.Newlife Church Leadership and Planning Documents
+$VER=2.90
+
