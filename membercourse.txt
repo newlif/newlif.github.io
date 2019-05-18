@@ -1,0 +1,134 @@
+.Membership Course Outline
+$VER=2.90
+$include incstd.txt
+$command=writeup -y $FILENAME
+$command+= && wkhtmltopdf2 $pdfopt $FILE.html $FILE.pdf //&& rm $FILE.html
+$pdfopt=-s Letter -L 10 -R 10 -T 10 -B 10 --zoom 1 // -O landscape --print-media-type --footer-right "[webpage]: [page]/[toPage]"
+$postamble=$set $p_style1="text-align:right;font-size:small;color:#888" ($author $DATE)
+
+/*
+Braden notes from Jan 2019
+- One hour interview if you want to be a member where you will share testimony, the
+gospel, and what it means to be a member
+- Welcomed in front of the church
+- Family metaphor – commitment to the family
+ - A key part of this is mentorship
+   -Meet at least once a month to talk about spiritual life
+
+- If you want to be / are a member, what is stopping you from attending a home group,
+because just Sundays is not enough
+- If you want to serve at Nlife ie. Worship, greeting, kids, etc. you should attend a home
+group (if you can’t, how can we make it work for you)
+
+- Members are expected to come on time – explain why
+- Course:
+ - Basic theology about being a Christian, about Newlife, and about membership
+ - Three classes
+ - Guinea pig on current “members”, do one class
+ - Video tape first sessions, then we can potentiallywatch them with new members
+- 18-30 minutes of dense material x 3 meetings, discussion throughout the material,
+Andrew will provide by Feb 28 (written hand outs), need to determine title of this, aim to
+do guinea pig one session in the second half of March, full sessions in May
+*/
+
+..A. What we believe
+
+1. God and and other beings
+ -Trinity
+ -What God is and is not
+ -Sovereignty & Responsibility
+
+1. What went wrong
+ -Creation
+ -Rebellion (sin)
+ -The new world order
+
+2. The Cross and Resurrection
+ -Victory over evil
+ -Reconciliation
+ -A new creation
+
+3. What is a Christian
+ -Jesus: Trust, Lordship and new life
+ -Father: Family trust & security
+ -Holy Spirit: Born from above into the new creation
+
+4. The Christian life
+ -Experience of Relationship with God the Father, Son & Spirit
+ -Church community
+ -Grace & obedience
+ -Authority & role of Scripture
+ -Spiritual forces
+ -Being a Witness to Jesus
+
+5. The Future
+ -Death & judgement
+ -Eternal state
+
+---
+..B. Our distinctive beliefs at Newlife
+
+-The purpose of the church is to make disciples and develop them to maturity
+ -The church has a responsibility to recognize, train, mentor and give opportunity for the exercise of gifts
+ -The church is also responsible to support and encourage character growth into the image of Christ
+
+-There are three aspects to the work of the Spirit
+ A. Love
+ B. Truth
+ C. Power
+
+A. Love towards God, one another and the unsaved
+ -Experiencing God's love and loving him in return is at the heart of all we do
+ -It is by our love for one another that the world knows we follow Jesus, and almost all the gifts are to be used in this context
+ -We develop this by an extended time together on Sundays and meeting in homegroups and other events during the week
+ -We are designed to be the primary manifestation of God's love to a lost world
+
+B. The truth keeps us on track and sets us free
+ -In an age of confusion and deception among Christians, we have a high value on persuing a clear understanding of God's truth, and being obedient to it
+ -Our preaching, teaching and discussions take the Bible as God's authoratitive word
+
+C. Power
+ -Every person has equal access to God and empowerment to pray, not two or more levels
+ -The supernatural did not end in Acts, but is important for today
+ -We look to see God move in power, both as an encouragement to us and as a witness to those outside
+ -Every person's gifts are needed, and are used primarily in the church community
+
+-Church Life
+ -Baptism and Breaking Bread
+ -Men and Women in God's plan
+ -Team leadership of the church
+
+---
+..C. Membership of the Newlife Church family
+
+-What is a Church?
+ -Not a building, or even a random collection of believers, but a family of Christians who put into practice the model that God has given us
+ -God puts a very high value on church families, from the beginnng of Acts through to Jesus's letters to the churches in Revelation
+ -It is his primary tool for the extension of the kingdom and the demonstration of his love until he returns.
+
+-Why join the family?
+ -Without some level of commitment, it is hard to truly function as a family.
+ -This commitment forms the basis for accountability and development of giftings
+
+-Serving
+ -There will be expectation and opportunity to serve for everyone, with flexibility for circumstances (e.g. new mothers)
+
+-Accountability
+ -Commitment works both ways
+ -If you are committed to us, you will...
+ -Our commitment to you is to give you our attention in caring for your soul and developing you as a person
+ -Mentorship: Meet at least once a month to talk about spiritual life
+
+-Homegroup
+ -This is an important part of being a member
+ -If there are practical issues, we want to do whatever we can to make this possible (noting that there might be some seasons where a full attendance is problematic)
+
+-Financial support
+ -Whatever one's income
+ -Our position on tithing (not a legalistic 10%, but it's a good starting point)
+
+-Process
+- One hour interview if you want to be a member where you will share testimony, the gospel, and what it means to be a member
+- If not baptized, then we would like to facilitate this
+- Welcomed in front of the church
+

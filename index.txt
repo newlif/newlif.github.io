@@ -1,3 +1,4 @@
 .Newlife Church Leadership and Planning Documents
 $VER=2.90
+-[[membercourse.html Outline of membership course]]
 
