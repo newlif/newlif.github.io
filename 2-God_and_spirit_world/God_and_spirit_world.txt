@@ -1,0 +1,272 @@
+//.God and the Spirit World
+$subtitle=1 John 4:3-11
+$subtitlefront=$subtitle
+$foottitle=$TITLE
+$pdate=2019-05-19
+$ID=$Id: God_and_spirit_world.txt 1233 2019-05-20 01:25:53Z andrewfn $
+$VER=2.90
+$include inc-amfsermons3.txt
+////////////////////////////////////////////////////////////////
+$style+= table.noborder, table.noborder th, table.noborder td {border-width:0; text-align:center;}
+
+{God and the Spirit World
+1. The Different Kinds of Beings in Existence
+2. The Pagan world view and avoiding it
+3. Evil & Suffering--It's Origin & Destiny
+}
+
+{Goal for us today
+1. The Different Kinds of Beings in Existence
+ -^Understand where we fit in^
+2. The Pagan world view and avoiding it
+ -^Feel secure and empowered^
+3. Evil & Suffering--It's Origin & Destiny
+ -^Have hope for the future, and motivation for the present^
+}
+
+-Summary of last time
+{Key points
+1. How God is different to us
+2. Qualities we share with God
+3. Our experience of God
+-First the Old Testatment, then the New
+}
+
+$P 1. The Different Kinds of Beings in Existence
+{Two Different Kinds of Beings
+$th_style1=text-align:center;
+----t
+God
+----row
+<table.noborder><tr>
+/<td>Created spirit beings/+(angels & demons)</td>
+/<td>$SP $SP Created being with a body/+(humans)</td>
+</tr></table>
+----
+}
+
+{Psalm 8:
+3. When I look up at the heavens, which your fingers made,/
+	and see the moon and the stars, which you set in place, 
+4. Of what importance are mortal humans, that you should notice them?/
+	Of what importance their race, that you should pay attention to them, 
+5. and make them a little less than the heavenly beings?/
+	You grant mankind honor and majesty; 
+6. you appoint them to rule over your creation;/
+	you have placed everything under their authority, 
+}
+
+-But the writer to the Hebrews gives this a twist when he quotes is.
+{Hebrews 2
+6. $..."What is man that you think of him or the son of man that you care for him? 
+7. You made him lower than the angels for a little while.
+	You crowned him with glory and honor  
+8. You put all things under his control.$..."/
+ $SP
+9. but we see Jesus, who was made lower than the angels for a little while, now crowned with glory and honor$...
+//$nonum
+}
+-Jesus was raised back up and takes us up as well
+
+$smallhead 120
+{Raised above all power
+-1 Cor 6:3: Do you not know that we will judge angels?
+-Ephesians 1
+ 19. and what is the incomparable greatness of ^his power toward us who believe^, as displayed in the exercise of his immense strength. 
+ 20. This power he exercised in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms 
+ 21. far above every rule and authority and power and dominion and every name that is named, not only in this age but also in the one to come. 
+-Eph 2:6  and he raised us up with him and seated us with him in the heavenly realms in Christ Jesus
+}
+
+$smallhead 150
+{Follower of Jesus
+$th_style1=text-align:center;
+----t
+God
+----row
+<table.noborder><tr>
+/<td>$SP</td>
+/<td>$SP $SP Created being with a body/+(humans)</td>
+</tr><tr>
+/<td>Created spirit beings/+(angels & demons)</td>
+/<td>$SP</td>
+</tr></table>
+----
+-James 4:7  So submit to God. But resist the devil and he will flee from you. 
+-Eph 4:27  Do not give the devil an opportunity. 
+-2Cor 2:11  _\[we must be forgiving$...\]_ so that we may not be exploited by Satan (for we are not ignorant of his schemes). 
+}
+
+$smallhead 150
+{Not a Follower of Jesus
+$th_style1=text-align:center;
+----t
+God
+----row
+<table.noborder><tr>
+/<td>Created spirit beings/+(angels & demons)</td>
+/<td>$SP</td>
+</tr><tr>
+/<td>$SP</td>
+/<td>$SP $SP Created being with a body/+(humans)</td>
+</tr></table>
+----
+-Yet even then God limits his power
+}
+
+{God and the Spirit World
+1. The Different Kinds of Beings in Existence
+ -^Understand where we fit in^
+2. The Pagan world view and avoiding it
+// -^Feel secure and empowered^
+3. Evil & Suffering--It's Origin & Destiny
+// -^Have hope for the future, and motivation for the present^
+}
+
+{Pagan world view
+$td_style=text-align:center;
+----
+God(s)
+----row
+Angels & Demons
+----row
+Ancestors (and their blessings and curses)
+----row
+Priests/Shamans/Gurus/Witch Doctors
+----row
+Ordinary people
+----
+$unset $td_style
+}
+
+-In much of the world, including N. America, this world view has crept into Christianity
+-If you have a problem in your life, blame a demon
+ -Pay some kind of priest to bring you deliverance
+ -As I was researching this sermon, a banner popped up on my computer to buy some prayers from a famous man of God
+
+$imgsource
+$image buy-prayers.png Buy Prayers
+-Where is God in this? (far away)
+
+{Pagan world view
+$td_style=text-align:center;
+----
+God(s)
+----row
+Angels & Demons
+----row
+Ancestors (and their blessings and curses)
+----row
+Priests/Shamans/Gurus/Witch Doctors
+----row
+Ordinary people
+----
+$unset $td_style
+}
+
+-What if I said to married couples, "I can sell you some power sentences to say to your husband to get him to do anything you want him to do
+
+-Here is another pop-up I got
+$image unlock-power.png Unlock Power
+-These people mean well, but I am concerned by two problems
+ -Is God's power being blocked? It is only our own sin that stops God, and even then it is his free choice and he can still bless us
+ -It reduces him to some impersonal force, not a dear and loving Father
+
+$smallhead 120
+{Ephesians 1
+16. I do not cease to give thanks for you, remembering ^you^ in my prayers, ~17~that the God of our Lord Jesus Christ, the Father of glory, ^may give you a spirit of wisdom and of revelation in the knowledge of him^, 
+18. having the ^eyes of your hearts enlightened^, that you may know ^what is the hope to which he has called you^, what are the ^riches of his glorious inheritance in the saints^, 
+19. and what is the ^immeasurable greatness of his power toward us^ who believe, according to the working of his great might ~20~that he worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places, 
+21. ^far above all rule and authority and power and dominion^, and above every name that is named, not only in this age but also in the one to come. 
+}
+
+{If you are a follower of Jesus:
+-You have direct access to God, as good as any "priest"
+-You have nothing to fear from demons
+-Your destiny is to be seated with Christ, ruling the universe
+-You don't need some special words to "unlock" God's blessing--that is an insult to his relationship with you
+}
+
+{Evil beings have great power in this world
+-The Bible speaks of them ruling nations (through wicked kings)
+-This is certainly what they are trying to do today
+-They particularly work through false religions
+-Demon posession is real
+-Persecution and killing of Christians today is at an all-time high in the world
+}
+
+{Resisting the Devil
+-His main weapon is lies and deception //refs needed
+-He tries to take advantage of our weaknesses //e.g. old wounds
+-We need each other's prayers and support //refs does not need to be "holy man"
+-He particularly tries to bring conflict and disunity //more in a min
+}
+
+{God and the Spirit World
+1. The Different Kinds of Beings in Existence
+ -^Understand where we fit in^
+2. The Pagan world view and avoiding it
+ -^Feel secure and empowered^
+3. Evil & Suffering--It's Origin & Destiny
+ -^Have hope for the future, and motivation for the present^
+}
+
+$P 3. Evil & Suffering--It's Origin & Destiny
+{The Origin of Evil
+-We are not told much at all, so we should not speculate
+-The Devil was originally obedient but rebelled in pride and led the fallen angels (=demons)
+-When this happened or where the evil came from we are not told
+-We are told much more about God's plans to eradicate evil
+}
+
+$smallhead 140
+{God's Ultimate Plan to Eradicate Evil & Suffering
+-If God is all-powerful, then how can evil and suffering exist?
+-The real question is does God care?
+ -Yes, he has an ultimate plan to get rid of evil forever
+ -What we see around us is part of the process
+  -The world is in rebellion--it is actually us who have done this
+ -God is going to re-make the entire universe without pain or suffering
+-That ultimately leaves just one question: Why the delay?
+-The cost to God is immense--we just have to trust him
+}
+
+-I can't answer that definitively, but part of the answer I believe is that God has to allow evil to fully reveal itself so that he can utterly abolish it
+ -Story of the wheat and the poisonous weeds
+-Our response is to believe and trust
+ -But also be part of the plan to defeat evil
+ -We are actually the front-line soldiers in this battle
+ -Our main weapon is the weapon that Jesus demonstrated on the cross
+  -Love, even for our enemies
+  -It was unforgiveness that Paul said gave a foothold for the devil
+  -We cannot do this in our own strength--we need to be connected with the source of love
+-"Father forgive them" Jesus & Stephen
+
+{God and the Spirit World
+1. The Different Kinds of Beings in Existence
+ -^Understand where we fit in^
+2. The Pagan world view and avoiding it
+ -^Feel secure and empowered^
+3. Evil & Suffering--It's Origin & Destiny
+ -^Have hope for the future, and motivation for the present^
+}
+
+$P Our Response
+ -If you do not have God as your father, then you are in extreme danger
+  -Don't stop seeking him until you know that you have found him
+ -There is a perfect responses for the Christian in 1 John 4, but first:
+
+{C.S. Lewis wrote
+“There are two equal and opposite errors into which our race can fall about the devils. One is to disbelieve in their existence. The other is to believe, and to feel an excessive and unhealthy interest in them. They themselves are equally pleased by both errors, and hail a materialist or magician with the same delight”/
+_The Screwtape Letters_ 1941, p.3
+}
+
+$smallhead 100
+{1 John 4
+3. $...This is the spirit of the antichrist, which you heard was coming and now is in the world already. ~4~$....you are from God and have overcome them, for ^he who is in you is greater than he who is in the world.^$...
+7. Beloved, let us ^love one another^, for love is from God, and ^whoever loves has been born of God^ and knows God. 
+8. Anyone who does not love does not know God, because ^God is love^. ~9~In this the love of God was made manifest among us, that God sent his only Son into the world, so that we might live through him.$...
+11. Beloved, if God so loved us, we also ought to love one another. ~12~$...^if we love one another, God abides in us and his love is perfected in us^. 
+}
+
+
