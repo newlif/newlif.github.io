@@ -33,22 +33,26 @@ do guinea pig one session in the second half of March, full sessions in May
 
 ..A. What we believe
 
-1. What God is like [[http://nlife.ca/video/what_god_is_like Video & slides]] $EMSP [[1-God-qualities/God-qualities.html Full notes]]
+$links($short, $file)=[[http://nlife.ca/video/$short Video & slides]] $EMSP [[$file.html Full notes]]
+
+1. What God is like $links what_god_is_like 1-God-qualities/God-qualities
  1. How God is different to us
  2. Qualities we share with God
  3. Our experience of God
  -First the Old Testatment, then the New
 
-2. God and the Spirit World [[http://nlife.ca/video/god_and_spirit_world Video & slides]] $EMSP [[2-God_and_spirit_world/God_and_spirit_world.html Full notes]]
+2. God and the Spirit World $links god_and_spirit_world 2-God_and_spirit_world/God_and_spirit_world
  1. The Different Kinds of Beings in Existence
  2. The Pagan world view and avoiding it
  3. Evil & Suffering--It's Origin & Destiny
  -Our Response
 
-3. What went wrong
- -Creation
- -Rebellion (sin)
- -The new world order
+3. How the World got Broken $links broken_world 3-Fall/broken_world
+ -Something has gone wrong!
+ 1. The source of the problem
+ 2. Where we are now
+ 3. Restoring a broken world
+ 4. Living in victory over the same temptation
 
 4. The Cross and Resurrection
  -Victory over evil
@@ -61,6 +65,7 @@ do guinea pig one session in the second half of March, full sessions in May
  -Holy Spirit: Born from above into the new creation
 
 6. The Christian life
+ -Baptism
  -Experience of Relationship with God the Father, Son & Spirit
  -Church community
  -Grace & obedience
@@ -125,6 +130,7 @@ C. Power
  -If you are committed to us, you will...
  -Our commitment to you is to give you our attention in caring for your soul and developing you as a person
  -Mentorship: Meet at least once a month to talk about spiritual life
+ -Church discipline
 
 -Homegroup
  -This is an important part of being a member

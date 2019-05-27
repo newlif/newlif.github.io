@@ -1,0 +1,34 @@
+..Romans 5:12-19
+$VER=2.9
+----t
+| The Problem | The Solution |
+----row
+12 So then, just as sin ^entered the world^ through one human and death through sin, and so death spread to all people because all sinned — 
+// 13 for before the law was given, sin was in the world, but there is no accounting for sin when there is no law. 
+// 14 Yet death reigned from Adam until Moses even over those who did not sin in the same way that Adam (who is a prototype of the coming one) transgressed. 
+--cell
+15 But the gracious gift is not like the transgression.
+----row
+For if the ^many^ died through the offence of ^one^,
+--cell
+^how much more^ did the grace of God and the gift by the grace of ^one^, Jesus Christ, multiply to the ^many^! 
+----row
+16 And the gift is not like the one who sinned. For judgment, resulting from the one transgression, led to condemnation,
+--cell
+but the gracious gift, following the many falls, led to justification. 
+----row
+17 For if, by the transgression of ^one^, death reigned through the ^one^,
+--cell
+how much more will those who receive the ^abundance of grace^ and of the gift of righteousness reign in life through ^one, Jesus Christ^! 
+----row
+18 Consequently, just as condemnation for all people came ^through one transgression^,
+--cell
+so too ^through the one righteous act^ came righteousness leading to life for all people. 
+----row
+19 For just as through the disobedience of the one man many were made sinners,
+--cell
+so also through the obedience of one man many will be made righteous. 
+// 20 Now the law came in so that the transgression may increase, but where sin increased, grace multiplied all the more, 
+// 21 so that just as sin reigned in death, so also grace will reign through righteousness to eternal life through Jesus Christ our Lord. 
+----
+

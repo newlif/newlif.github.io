@@ -1,0 +1,247 @@
+//.How the World got Broken
+$subtitle=Romans 5:12-19
+$subtitlefront=$subtitle
+$foottitle=$TITLE
+$pdate=2019-05-26
+$ID=$Id: broken_world.txt 1235 2019-05-27 03:23:23Z andrewfn $
+$VER=2.90
+$include inc-amfsermons3.txt
+////////////////////////////////////////////////////////////////
+$style+= table.noborder, table.noborder th, table.noborder td {border-width:0; text-align:center;}
+//https://pixabay.com/photos/soldiers-military-usa-weapons-war-1002/ Poster imgage by Defence-Imagery
+
+-Summary of last two times
+{1. What God is like
+1. How God is different to us
+2. Qualities we share with God
+3. Our experience of God
+-First the Old Testatment, then the New
+}
+
+{2. God and the Spirit World
+1. The Different Kinds of Beings in Existence
+2. The Pagan world view and avoiding it
+3. Evil & Suffering--It's Origin & Destiny
+-Our Response
+}
+
+{Pagan world view
+$td_style=text-align:center;
+----
+God(s)
+----row
+Angels & Demons
+----row
+Ancestors (and their blessings and curses)
+----row
+Priests/Shamans/Gurus/Witch Doctors
+----row
+Ordinary people
+----
+$unset $td_style
+}
+
+{Follower of Jesus
+$th_style1=text-align:center;
+----t
+God
+----row
+<table.noborder><tr>
+/<td>$SP</td>
+/<td>$SP $SP Created being with a body/+(humans)</td>
+</tr><tr>
+/<td>Created spirit beings/+(angels & demons)</td>
+/<td>$SP</td>
+</tr></table>
+----
+}
+
+{Plan for today
+-Something has gone wrong!
+1. The source of the problem
+2. Where we are now
+3. Restoring a broken world
+4. Living in victory over the same temptation
+}
+
+$P 0. Something has gone wrong!
+-Most people will agree that there is something very wrong with this world. We instinctively know that this is not how things should be.
+-Something is broken, especially where humans are concerned. Why?
+ -Why is there so much injustice and extreme poverty?
+ -Why are there wars--based on greed, or desire for power, or hatred for those who are different from ourselves?
+ -Why is there so much sickness, even with today's medicine?
+-How can a whole nation, of seemingly good people, turn against a minority and treat them worse than animals? (More than once in recent history.)
+
+$imgsource https://commons.wikimedia.org/wiki/File:Plaque_Dedicated_to_the_Location_of_the_Stanford_Prison_Experiment.jpg wikimedia
+$image Stanford_Prison_Experiment.jpg SPE Plaque
+
+{The Stanford Prison Experiment
+"What happens when you put good people in an evil place?
+Does humanity win over evil, or does evil triumph?
+These are some of the questions we posed in this dramatic simulation of prison life conducted in 1971 at stanford university."
+–Professor Philip G. Zimbardo
+}
+
+{The Stanford Prison Experiment
+"How we went about testing these questions and what we found may astound you. Our planned two-week investigation into the psychology of prison life had to be ended after only six days because of what the situation was doing to the college students who participated. In only a few days, our guards became sadistic and our prisoners became depressed and showed signs of extreme stress."
+–Professor Philip G. Zimbardo
+}
+
+$imgsource https://www.prisonexp.org/escape spe
+$imageonline guard.smiling.jpg Guard
+-This seems very confusing because most people are capable of being so nice and loving
+
+$P 1. The source of the problem
+
+-The Bible tells us that God made the world perfect, and placed humankind in charge. Yet the design was that people would live in close dependence on God in a loving relationship. 
+
+{What went wrong
+-Adam & Eve, the first humans, were put in a perfect reality
+-A place of order, harmony, beauty and perfect love, but surrounded by chaos
+-Their task was to spread this harmony over the whole earth
+-The stability of this reality depended on them maintaining their allegiance to God
+-This enabled his life to be constantly flowing into them
+-They were given a very simple thing to mark their allegiance--don't eat from a particular tree
+}
+
+-Not an apple b.t.w., whatever Apple Computer would like you to believe
+$imgsource https://en.wikipedia.org/wiki/History_of_Apple_Inc. wikipedia
+$image apple-logo.png (R) Apple Computer Co
+
+-Very important point--it was not eating this fruit that was the problem in itself,
+ -it was a symbol of stepping out of dependence, which broke the flow of order, love, harmony & power
+
+-Another being in the universe came onto the scene and suggested to them that
+ -God did not have their best interests
+ -He could not be trusted
+ -They did not need him anyway
+
+-The choice can by symbolized like this
+$imgsource
+$image outside_will.png "Outside God's Will"
+
+-This sums up sin, and in a simple picture applies to every choice we have
+
+-When Eve and Adam made this choice, it broke the carefully constructed universe they were in
+ -We don't understand the details, but the harmony was smashed, and this extended to the animal and plant kingdom as well
+-Led to shame
+ -Led most of all to a broken relatinship with God
+-But God was determined to repair it
+ -He promised that ultimately Eve would destroy evil through one of her descendents
+
+{Genesis 3:15
+God said to Satan on behalf of Eve:
+"$...her offspring will crush your head"
+}
+-That descendent of course was Jesus
+
+{Plan for today
+-Something has gone wrong!
+1. The source of the problem
+2. Where we are now
+3. Restoring a broken world
+4. Living in victory over the same temptation
+}
+
+{2. Where we are now
+$FRAG
+So when humans first disobeyed God, it was more than a small mistake, it was an act of ^defiant rebellion that severed this relationship^.
+$FRAG
+This perfect universe became spoiled and broken, sickness and death entered the world, and every child born ^inherited this brokenness^.
+$FRAG
+What was most broken was the human spirit, now that it was separated from God. Instead we became centred on ourselves and often ^see God's laws as restrictions, keeping us from happiness^.
+}
+
+{Common Grace
+-But every human carries the "image of God"
+-Beauty, creativity, love, self-sacrifice, sometimes in extraordinary ways.
+-Yet tainted by unwillingness to give allegiance to the God who gave these gifts
+ %Huge cask of the best and most expensive wine in the world, but take a teaspoon of sewage and stir it in%
+ %That is the human tragedy%
+}
+
+-What is passed down?
+ -Not guilt--the Bible is very clear we cannot be guilty for what another person does
+ -but tendency to want to make our choices outside of God's will
+
+-This brings us to our main passage for today: Romans 5
+ -Explain justification as relational
+{3. Restoring a broken world
+-How did God go about keeping his promise to Eve?
+-A new human re-runs the same test that Eve and Adam failed
+$a_attr1=target="_blank"
+-^[[Romans5.html link to Romans 5:12-19]]^
+}
+
+{Plan for today
+-Something has gone wrong!
+1. The source of the problem
+2. Where we are now
+3. Restoring a broken world
+4. Living in victory over the same temptation
+}
+{4. Living in victory over the same temptation
+-Satan is a liar which is the root of his temptation
+}
+
+$imgsource
+$image outside_will.png "Outside God's Will"
+
+{The three aspects of Temptation
+-1 John 2:
+16. For all that is in the world--the ^desires of the flesh^ and the ^desires of the eyes^ and the ^pride of life^--is not from the Father but is from the world. 
+-Genesis 3 has the same three kinds:
+16. So when the woman saw that the tree was ^good for food^, and that it was a ^delight to the eyes^, and that the tree was to be ^desired to make one wise^, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.
+}
+
+-Jesus was tempted exactly like this
+
+{A. The Desires of the Flesh
+-All our physical needs and wants
+-Satan suggested that Jesus (like Adam) had a legitimate complaint against God
+-Jesus was hungry and God hadn't provided bread for him--why shouldn't he provide for himself?
+-Have you ever felt like that?
+}
+
+{B. The Desires of the Eyes
+-Culture, art, science
+-houses, gardens
+-cars, home electronics
+-Films, literature, drama, music
+-education, technology
+-& the great achievments of mankind
+}
+-Good things, but they become our idols so easily, and we don't see them as gifts from God
+-This was Jesus' second temptation--the glorious acheivements of all the nations of the world to be his
+
+{C. The Pride of Life
+-To be worth something--to be recognized
+-This is to a large extent relational: wanting to be thought highly of
+-It is what is behind exaggeration
+-Gossip ("I am someone who knows lots of things about people--you will find me interesting to talk to!")
+-Telling stories that set you in a good light
+ %(e.g. "Yesterday I was chatting with the Queen, and she said 'what a great guy you are Andrew'")%
+-Desire for power, fame & recognition
+}
+-Remember Jesus' last temptation?
+-Jesus was tempted to get instant fame as hundreds of angels came and caught him as he jumped off the temple
+
+//-Stories of temptation
+// -Abraham & Ishmael
+// -Jacob & birthright
+// -David & Bathsheba
+
+{We don't need Satan to be tempted: James 1
+14.  But each person is tempted when he is lured and enticed by ^his own desire^.
+15. Then ^desire^ when it has conceived gives birth to sin, and sin when it is fully grown brings forth death. 
+}
+
+$imgsource
+$image outside_will.png "Outside God's Will"
+-What is inside is better!
+
+{Answering temptation
+-There is more joy in Jesus than in anything this world has to offer. (Which is the answer to Satan's lie).
+-Whom will you follow?
+}
+
