@@ -33,7 +33,7 @@ do guinea pig one session in the second half of March, full sessions in May
 
 ..A. What we believe
 
-$links($short, $file)=[[http://nlife.ca/video/$short -- Video & slides]] $EMSP [[$file.html Full notes]]
+$links($short, $file)= -- [[http://nlife.ca/video/$short Video & slides]] $EMSP [[$file.html Full notes]]
 
 1. What God is like $links what_god_is_like 1-God-qualities/God-qualities
  1. How God is different to us
