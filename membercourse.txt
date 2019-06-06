@@ -33,7 +33,7 @@ do guinea pig one session in the second half of March, full sessions in May
 
 ..A. What we believe
 
-$links($short, $file)=[[http://nlife.ca/video/$short Video & slides]] $EMSP [[$file.html Full notes]]
+$links($short, $file)=[[http://nlife.ca/video/$short -- Video & slides]] $EMSP [[$file.html Full notes]]
 
 1. What God is like $links what_god_is_like 1-God-qualities/God-qualities
  1. How God is different to us
@@ -55,9 +55,9 @@ $links($short, $file)=[[http://nlife.ca/video/$short Video & slides]] $EMSP [[$f
  4. Living in victory over the same temptation
 
 4. How the cross and resurrection changed everything $links cross_resurrection 4-cross_resurrection/cross_resurrection
- -Victory over evil
- -Reconciliation
- -A new creation
+ 1. Solution: The New Creation
+ 2. How it works: Union with Christ Col 2:8-23
+ 3. What this means for us
 
 5. What is a Christian
  -Jesus: Trust, Lordship and new life

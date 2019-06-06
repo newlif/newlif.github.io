@@ -2,7 +2,7 @@
 $subtitle=Colossians 2:8-23
 $subtitlefront=$subtitle
 $foottitle=$TITLE
-$pdate=2019-05-26
+$pdate=2019-06-02
 $ID=$Id: broken_world.txt 1235 2019-05-27 03:23:23Z andrewfn $
 $VER=2.90
 $include inc-amfsermons3.txt
