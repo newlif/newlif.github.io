@@ -1,0 +1,271 @@
+//.How the cross and resurrection changed everything
+$subtitle=Colossians 2:8-23
+$subtitlefront=$subtitle
+$foottitle=$TITLE
+$pdate=2019-05-26
+$ID=$Id: broken_world.txt 1235 2019-05-27 03:23:23Z andrewfn $
+$VER=2.90
+$include inc-amfsermons3.txt
+$altimages=$rootpath/images
+////////////////////////////////////////////////////////////////
+$style+= table.noborder, table.noborder th, table.noborder td {border-width:0; text-align:center;}
+//https://pixabay.com/photos/soldiers-military-usa-weapons-war-1002/ Poster imgage by Defence-Imagery
+
+{Goal
+That you get a really firm grasp of the single most important idea in the whole of Christianity.
+}
+-I didn't understand this at all until 15 years after I became a Christian and it changed my Christian life.
+
+-But first a recap:
+-Summary of last three sermons
+
+{1. What God is like
+1. How God is different to us
+2. Qualities we share with God
+3. Our experience of God
+}
+
+{2. God and the Spirit World
+1. The Different Kinds of Beings in Existence
+2. The Pagan world view and avoiding it
+3. Evil & Suffering--It's Origin & Destiny
+}
+
+{3. How the World got Broken
+-Virtually everyone will agree that something has gone very wrong with this world$...
+}
+
+{How the cross and resurrection changed everything
+-How the World got Broken (recap)
+1. Solution: The New Creation
+2. How it works: Union with Christ Col 2:8-23
+3. What this means for us
+}
+
+{How the World got Broken
+-The universe was beautifully and carefully constructed
+-A place of order, harmony, beauty and perfect love, but surrounded by chaos
+-The first human's task was to spread this harmony over the whole earth
+-The stability of this reality depended on them maintaining their allegiance to God
+-This enabled his life to be constantly flowing into them
+-They were given a very simple thing to mark their allegiance--don't eat from a particular tree
+}
+
+-Very important point--it was not eating this fruit that was the problem in itself,
+ -it was a symbol of stepping out of dependence, which broke the flow of order, love, harmony & power
+
+-Another being in the universe came onto the scene and suggested to them that
+ -God did not have their best interests
+ -He could not be trusted
+ -They did not need him anyway
+
+-The choice can by symbolized like this
+$imgsource
+$image ../3-Fall/outside_will.png "Outside God's Will"
+
+-This sums up sin, and in a simple picture applies to every choice we have
+
+-When Eve and Adam made this choice, it broke the carefully constructed universe they were in
+ -We don't understand the details, but the harmony was smashed, and this extended to the animal and plant kingdom as well
+-Led to shame
+ -Led most of all to a broken relatinship with God which resulted in brokenness everywhere
+ -But there is still beauty everywhere
+
+-Problem is often framed in terms of individial sin
+ -Story of teaching kids in my early 20's -- scales
+$imgsource https://en.wikipedia.org/wiki/File:Johnny-automatic-scales-of-justice.svg johnny
+$image scales.png "Scales"
+
+-But I had a problem finding very many verses that expressed it like this
+ -By his stripes we are healed" -Is 53:5
+-So how does the Bible most commonly frame the problem and the solution?
+
+{How the cross and resurrection changed everything
+-How the World got Broken (recap)
+1. Solution: The New Creation
+2. How it works: Union with Christ Col 2:8-23
+3. What this means for us
+}
+
+$P 1. Solution: The New Creation
+{The Plan
+-The whole fabric of the universe is now damaged
+-It is beyond simply patching up.
+-To rescue us God has to do something radical.
+-The plan is this: God would make an entirely new kind of reality that is perfect, and invite everyone to become part of it.
+-"The new creation"
+}
+
+-God offers to freely give us this new life.
+ -Just as we entered _this world_ by being born,
+  -we enter the _new reality_ with a new kind of "birth".
+-Jesus called this new creation the "Kingdom of God". He explained this to a man who came to him:
+
+{New Creation/Kingdom -- John 3
+3. "I tell you the truth, unless a person is born from above, he cannot see the kingdom of God."
+ %The man was confused by this and replied%
+4. "How can a man be born when he is old? He cannot enter his mother's womb and be born a second time, can he?"
+ %Jesus explained that this creation begins inside us in an invisible way--it is "spirit" rather than physical.%
+6. "What is born of the flesh is flesh, and what is born of the Spirit is spirit.
+7. Do not be amazed that I said to you, 'You must all be born from above.'"
+}
+
+{Two Creations
+-We have bodies of flesh because we are born into _this_ world.
+-We enter the new reality by being "born from above"
+-God puts his Spirit in us, making us his children. _(more about this next week)_
+-Right now this new reality is just inside us, ^but one day the physical world will also be renewed.^
+}
+
+-Jesus taught that when this world comes to an end,
+ -those who are part of his new creation will receive new bodies,
+ -like the new butterfly emerging from the old cocoon.
+ -Sickness, suffering and death will be gone forever.
+
+{How did Jesus do it?
+-Jesus came from heaven taking on a human body,
+-died in his physical body,
+-and then was raised from the dead as the very first human of the new creation.
+-That is why he was called "the firstborn from the dead" _Rev 1:5_
+-If we are joined to him, ^the same thing happens to us^
+}
+//If he were just a man, then this would have benefited only him, but he was also God, so his act could benefit many. It would be like a rescue ship pulling alongside the _Titanic_ and taking passengers aboard. As people are transferred, their fate is no longer linked to the _Titanic_ but to their new ship--because it will survive, then so will they. The Apostle Paul wrote:
+
+{How the cross and resurrection changed everything
+-How the World got Broken (recap)
+1. Solution: The New Creation
+2. How it works: Union with Christ Col 2:8-23
+3. What this means for us
+}
+$P 2. How it works: Union with Christ Col 2:8-23
+
+{Outline of 2:8-23
+-(8-10) Beware of being cheated--because you have everything
+ -(11-14) ^United with Christ^
+-(15-23) So don't be cheated--because you have everything
+}
+
+-Read the passage:
+[[5-Col2_8-23-text.html Colossians 2:8-23]]
+
+-The heart of this passage:
+$pushset ${:sPCENT}=<span.darkblue><u> // % for "in him"
+$pushset ${:ePCENT}=</u></span>
+<div style="border:1px solid black;">
+11. %In him you were% also ^circumcised^ /
+   $IN with a ^circumcision^ made without hands, /
+   $IN in stripping off the ^body of the flesh^, /
+    %in% the ^circumcision^ of Christ,/
+$SP
+12. ^buried^ %together with him% in baptism, /
+    in whom you were also ^raised^ %together with him% /
+   $IN through faith in the working of God, who ^raised^ him from the ^dead^.
+13. And you, being ^dead^ in your *trespasses* and the uncircumcision of your *flesh*, /
+    he ^made alive^ %together with him%, /
+    $SP/
+    *forgiving* us all *trespasses*,
+14. $IN *wiping out* the *record of debt* against us with its *decrees*, /
+    $IN that which was *hostile* to us, even this he has *set aside*, /
+    ^nailing^ it to the ^cross^.
+</div>
+$pop ${:ePCENT} $pop ${:sPCENT}
+
+....Explain the verses
+
+-death pictured as circumcision
+ -Even in the Old Testament, circumcision was a picture of a new beginning //dying and being born again
+ -It was done on the "8th day", the first day of a new week
+  -picturing the start of a new creation
+ -Israel were told that their hearts were to be circumcised
+   -they were told this mean to have ^a new and living heart^
+
+-bury--raised
+ -death--life
+ -"Together with him" Paul has actually coined new words here
+-when someone was crucified, they would nail a list of their crimes to the cross
+ -Our crimes were nailed to Jesus's cross
+ -*Not transferred to him, as a separate entity*
+  -but he put his arms around us and said "let's do this together" and then he did it all
+
+-The core message of the gospel is *union with Christ*
+ -Once I used to teach the Gospel in terms of scales
+ -I once made a pair of scales to teach this to children
+ -In one side goes our sin (heavy stone) and the other goes our good works (no substance)
+  -Then we take the righteousness of Jesus and it balances it out
+-However much truth there is in this image, it is *not* how Paul presents the Gospel
+ -Not a cold, legal transaction with scales,
+ -but union with a living person
+
+-This is the same as being "born again" (=born from above)
+ -The life of God is now in you
+ -You are literally his child, born from him (although not a God)
+
+-^Joined at the shoulder^
+-Implications of being united with Jesus
+ 1. Our destinies are inseparably connected
+  -Story of the sinking supertanker and the helicopter
+   -Let's illustrate this with two people
+  -we are totally secure
+ 2. We actually have died
+  -and we have been raised something ^else^
+
+{How the cross and resurrection changed everything
+-How the World got Broken (recap)
+1. Solution: The New Creation
+2. How it works: Union with Christ Col 2:8-23
+3. What this means for us
+}
+$P 3. What this means for us
+....Look at verses 8-10
+-things they have to do, rituals, ceremonies, *particularly from the Old Testament*
+ -many of these things were not *wrong in and of themselves*, they just _belonged to a previous life_
+  -Sorting stuff out I found an old library card from when I lived in England
+  -A tax form was sent to my old address, years after I had moved here--no longer relevant
+-Look at Paul's answer: it sounds like he is almost saying we are divine
+ -He is not, of course, but we are a new kind of being
+ -filled with the fullness of Christ, who *is fully divine*
+
+....Quick Look at verses 15-23
+
+//_%But what does it actually mean to be part of this new creation?%_
+
+-When someone dies, all their legal obligations are wiped clean, all their convictions etc.
+ -Lawsuite against a criminal is instantly dropped if he or she dies
+
+//file:///home/andrew/sermons/Growth/victory1/victory1.html
+
+{The Torrey Canyon Disaster
+-18 March 1967
+$if !$online
+-[[$altimages/torrey_canyon/torrey_canyon.html Link to "The Torrey Canyon Distaster"]]
+$endif
+}
+
+-Jesus died by crucifixion--the most painful way to die known to the Romans.
+ -Yet the physical pain was nothing compared to what he suffering in his spirit.
+-When Jesus died, he took on the guilt of a humanity in rebellion.
+ -He paid the price, and brought peace with God.
+ -It was what was needed for our forgiveness. That is how much Jesus loved us!
+
+{Romans 8
+31. What then shall we say to these things? If God is for us, who can be against us? 
+32. He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? 
+33. Who shall bring any charge against God's elect? It is God who justifies. 
+34. Who is to condemn? Christ Jesus is the one who died--more than that, who was raised--who is at the right hand of God, who indeed is interceding for us. 
+35. ^Who shall separate us from the love of Christ?^
+}
+
+-How much he loves us to do this for us!
+
+/*
+When I first came to Canada, in 1985, I took some courses with one of the greatest Christian thinkers I have ever met.
+A converted muslim from North Africa, Amar Djaballah, challenged me like no one else had ever done before.
+At the end of the year he strongly recommended that I should read this book, which I immediately bought and read, and which changed my thinking about the core of Christianity in a profound way.
+_The Centrality of the Resurrection_ by Richard B. Gaffin
+Every blessing that we as Christians receive flows ultimately from Christ's resurrection
+-victory over sin
+-victory over evil
+-New creation
+ Becoming children
+*/
+

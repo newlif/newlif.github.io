@@ -54,7 +54,7 @@ $links($short, $file)=[[http://nlife.ca/video/$short Video & slides]] $EMSP [[$f
  3. Restoring a broken world
  4. Living in victory over the same temptation
 
-4. The Cross and Resurrection
+4. How the cross and resurrection changed everything $links cross_resurrection 4-cross_resurrection/cross_resurrection
  -Victory over evil
  -Reconciliation
  -A new creation
