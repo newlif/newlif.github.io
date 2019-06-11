@@ -59,14 +59,19 @@ $links($short, $file)= -- [[http://nlife.ca/video/$short Video & slides]] $EMSP 
  2. How it works: Union with Christ Col 2:8-23
  3. What this means for us
 
-5. What is a Christian
- -Jesus: Trust, Lordship and new life
- -Father: Family trust & security
- -Holy Spirit: Born from above into the new creation
+5. What is a Christian $links new_life_in_christ 5-new-life/1Cor15-new_creation
+ 1. The Two Creations
+ 2. Getting from the Old to the New
+ 3. Living in the New:
+  -We are no longer slaves to the old behaviour, but free to live in the new
+  -We have the very life of God working in us through the Spirit
 
 6. The Christian life
  -Baptism
  -Experience of Relationship with God the Father, Son & Spirit
+// -Jesus: Trust, Lordship and new life
+// -Father: Family trust & security
+// -Holy Spirit: Born from above into the new creation
  -Church community
  -Grace & obedience
  -Authority & role of Scripture

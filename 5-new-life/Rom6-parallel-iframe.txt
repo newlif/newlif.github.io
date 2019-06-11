@@ -1,0 +1,26 @@
+//.Romans 6:5-14
+$version=based on NET Bible //with some changes taken from the ESV
+$ID=$Id: Rom6-parallel-iframe.txt 1239 2019-06-09 14:23:51Z andrewfn $
+$VER=2.5
+$include inc-iframetext.txt
+
+$pushset ${:sSQR}='<strong style="text-decoration:underline">'
+$pushset ${:eSQR}=</strong>
+
+$th_style=font-size:200%;
+----t
+| <span class="big">[Old Creation]</span> | <span class="big">^New Creation^</span> 
+| 5 For if we have become united with him in the likeness of his [death], | we will certainly also be united in the likeness of his ^resurrection^. |
+| 6 We know that our [old] man was [crucified] with him | so that the body of sin would ^no longer dominate^ us, so that we would ^no longer be enslaved^ to sin. |
+| 7 (For someone who has [died] | has been ^freed from sin^.) |
+| 8 Now if we [died] with Christ, | we believe that we will also ^live^ with him.*↓* |
+| *↪*he is never going to [die] again; [death] no longer is his master.*↓* | 9 We know that since Christ has been ^raised from the dead^,*↩* |
+| 10 For the [death he died], he [died] to [sin] once for all, | but the ^life^ he ^lives^, he ^lives^ to God. |
+| 11 So you too consider yourselves [dead to sin], | but ^alive^ to ^God^ in Christ Jesus. |
+| 12 Therefore do not let [sin] reign in your mortal body so that you obey its desires, 13 and do not present the members of your body to [sin] as instruments to be used for [unrighteousness], | but present yourselves to God as those who are ^alive from the dead^ and the members of your body to God as instruments to be used for ^righteousness^. |
+| 14 For [sin] will not be your master, because you are [not under law] | but ^under grace^. |
+----
+$unset $th_style
+$pop ${:eSQR}||$pop ${:sSQR}
+$endtext
+

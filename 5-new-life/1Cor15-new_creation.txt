@@ -1,0 +1,259 @@
+//.New Life in Christ, renewed by the Spirit
+$subtitle=1 Corinthians 15; Romans 6:5-14
+$subtitlefront=$subtitle
+$foottitle=$TITLE
+$pdate=2019-06-09
+$ID=$Id: 1Cor15-new_creation.txt 1240 2019-06-10 02:30:04Z andrewfn $
+$VER=2.90
+$include inc-amfsermons3.txt
+$pdfopt=-s Letter -L 14 -R 4 -T 6 -B 6 --zoom 0.9 --footer-right "[webpage]: [page]/[toPage]"
+////////////////////////////////////////////////////////////////
+
+-Today I want to explore:
+{Explore:
+How being in the New Creation/
+because we are united to Christ/
+changes everything
+}
+-Get out metal and paper
+
+{Recap
+1. What God is like
+2. God and the Spirit World
+3. How the World got Broken
+}
+
+{4. How the cross and resurrection changed everything
+1. Solution: The New Creation
+2. How it works: Union with Christ Col 2:8-23
+3. What this means for us
+}
+
+{5. New Life in Christ
+1. The Two Creations
+2. Getting from the Old to the New
+3. Living in the New
+}
+
+{Two Kinds of Stuff
+1. Things made out of paper, card, tape & glue
+2. Things made out of metal
+-Characteristics?
+-Can you turn something from card to metal?
+-How would you go about doing this?
+-_So what was that all about Andrew?_
+}
+
+1. Paper & Card
+ -does not last
+ -easily damaged
+ -not strong
+ -can burn
+
+2. Metal
+ -lasts indefinitely
+ -resists damage
+ -very strong and functional
+ -cannot burn
+
+-No you can't!
+ -Have to start again and copy it
+
+-So what is that all about 
+
+{Problem at Corinth
+-There was a problem that some people at the Corinthian church were laughing at the idea of a resurrection
+-1 Corinthians 15 starts by addressing this problem
+-Ends up with one of the clearest presentations of the "New Creation" in the Bible
+}
+
+$iframe 1Cor15-iframe "1 Corinthians 15"
+$iframecopy
+
+-Read first section (v.1-4)
+ -This is ^the core of the gospel that saves you^
+ -Paul: "this is so fundamental it is like ABC"
+
+$if $LONGVERSION //also have to edit 1Cor15-iframe to include the whole passage 
+-Read v.14-19
+ -He goes through the implications if Jesus was not raised
+$endif
+
+-Read v.21-22
+ -He begins to set up two contrasting systems, which will form the basis for the rest of the passage
+
+$if $LONGVERSION //also have to edit 1Cor15-iframe to include the whole passage 
+-Read v.23-27
+ -The order of future events
+
+-We'll skip a few verses where he talks more about how absurd it would be to be a Christian and not believe in the resurrection
+ -Read v.32
+
+-Now the next section introduces the difference between the ^Old Creation^ and the ^New Creation^
+ -Two analogies given:
+  -Read v.36-38 --The difference is like that between the seed that is sown and what springs up
+  -Read v.39-41 --The difference is like that between vastly different objects
+ -He brings them together in v.42-44
+  -We die as one kind, and are raised as the other
+$endif
+
+-Now maybe you can begin to see the connection with my paper and metal?
+ -Paul is giving us two categories here:
+
+{The Two Creations
+----t
+| Old Creation | New Creation |
+| Adam | Christ |
+| Dust | the Spirit |
+| Perishable | Imperishable |
+----
+-How can we be made of the Holy Spirit?
+}
+
+-Adam was made of dust
+ -atoms and molecules of this universe
+ -Our bodies are the same basic stuff as the world around us
+ -I am made of this same stuff
+ -and when I die, I return to dust
+
+-Jesus was raised in the Spirit
+ -a new kind of material
+
+-How can we be made of the Holy Spirit?
+ -Well of course we don't become God
+ -As we will see in a moment, the Scriptures clearly teach it
+ -So what does it mean?
+
+-If I was to visit London, England and collect a bag of rocks from the city
+ -When I returned if I made the rocks into a little sculpture
+ -I couldn't say "this sculpture ^is^ the city of London"
+ -I could only say "its made of the same stuff as London
+
+-Similarly our New Creation identities are made of the stuff of the Spirit
+
+{New Creation and the Spirit
+-John 3:6 That which is born of the ^flesh^ is ^flesh^, and that which is born of the ^Spirit^ is ^spirit^. 
+-Rom 1:4 who was appointed the Son-of-God-in-power according to the ^Holy Spirit^ by the resurrection from the dead, Jesus Christ our Lord. 
+-Rom 8:11 If the ^Spirit^ of him who raised Jesus from the dead dwells in you, he who ^raised Christ Jesus^ from the dead will also give life to your mortal bodies through his ^Spirit^ who dwells in you. 
+}
+
+-but as we said before, these two kinds of stuff are completely different
+ -if we are made of one, what do we have to do with the other?
+ -how do we get from one to the other?
+  -from perishable dust, to immortal Spirit?
+
+-The new creation has already begun, but the old is still here.
+-Our main problem comes from the fact we are living in both at the same time
+
+$pushset $sourcelink=""
+$image jewish-age-to-come.gif O.T. Age to come
+{
+}
+$pop $sourcelink
+
+{New Life in Christ
+1. The Two Creations
+2. Getting from the Old to the New
+3. Living in the New
+}
+$P 2. Getting from the Old to the New
+-Definition of a Christian: ^in Christ^
+
+-So how to we get from the old to the new?
+ -You can't suddenly discover that your leg is part of the New Creation
+ -the answer is by being ^joined to Jesus who made the transition^
+ -we died ^with^ him and are being raised ^with^ him
+ -we are united to him
+-Being United with Jesus is the answer to almost every question!
+ -If you have ever taught children in Sunday School... "Jesus!"
+
+$pushset $sourcelink=""
+$image 2aeons.png Two Creations
+{
+}
+$pop $sourcelink
+
+-So how do we get this?
+ -Jesus offers it to us freely. "Come to me that you may have life"
+ -It is a death and a life.
+  -Jesus, I want the old me to die so I can have your gift of the new me
+  -All our sin and guilt is taken away in his death.
+
+{New Life in Christ
+1. The Two Creations
+2. Getting from the Old to the New
+3. Living in the New
+}
+$P 3. Living in the New
+-Story of Larry's goldfish
+$imgsource https://pngimg.com/download/67559 pngimg.com
+$image goldfish.jpg
+
+{Colossians 2 & 3
+12. Having been buried with him in baptism, you also have been raised with him through your faith in the power of God who raised him from the dead.
+1. Therefore, if you have been raised with Christ, keep seeking ^the things above^, where Christ is, seated at the right hand of God. 
+2. Keep thinking about ^things above^, not ^things on the earth^, 
+3. for ^you have died^ and ^your life is hidden with Christ^ in God. 
+4. When Christ (who is your life) ^appears^, then ^you too will be revealed^ in glory with him. 
+}
+
+-So what practical difference does it make?
+-Our second main passage today is Romans 6
+
+$h3_style1=font-size:100%; margin:0;
+$iframe Rom6-parallel-iframe "Romans 6:5-14"
+$iframecopy
+
+-Go through and point out comparison
+ -Christ's story has become our story
+
+{Two Differences in the New
+1. We don't need to live as if we were slaves to sin. We are free now that we are under grace!
+2. Jesus now lives in us through the Spirit
+}
+-Is it the Spirit in us or Jesus--amounts to the same thing
+ -The Spirit is the channel of Jesus
+
+{Galatians 2
+19. For through the law ^I died^ to the law so that I may live to God. 
+20. I have been crucified with Christ, and it is no longer I who live, but ^Christ lives in me^. So the life I now live in the body, I live because of the faithfulness of the Son of God, who loved me and gave himself for me. 
+}
+-Once again, this is the New Creation life within us
+
+-God has put a piece of eternity inside us.
+ -You are called to live out of this new reality
+-Every bit of the love of Jesus you show for another person is made of the stuff of eternity
+ -Nothing you do for God will be lost
+ -This will survive till the end of time
+
+-I have spend a lot of hours of hard work in my workplace this week
+ -Is that just paper and card?
+ -That doesn't mean it is worthless building them--If you do it to God's glory, everything has eternal value
+
+{Romans 7:6
+"But now we have been released from the law,/
+because we have died to what controlled us, /
+so that we may serve in ^the new life of the Spirit^/
+and not under the old written code."
+}
+
+-The name of our church comes from this truth!
+
+{New Life in Christ - recap
+1. The Two Creations
+2. Getting from the Old to the New
+3. Living in the New:
+ -*We are no longer slaves to the old behaviour, but free to live in the new*
+ -*We have the very life of God working in us through the Spirit*
+}
+
+{Romans 8:13-16
+13. $...but if by the Spirit you put to death the deeds of the body you will live.
+14. For all who are led by the Spirit of God are the children of God.
+15. For you did not receive the spirit of slavery leading again to fear, but you received the Spirit of adoption, by whom we cry, "Abba, Father."
+16. The Spirit himself bears witness to our spirit that we are God's children.
+}
+
+-We live out of our self image. We must live out of this--the new us
+ -So that way we respond to this is by grasping our new identity and living out of it.
+
